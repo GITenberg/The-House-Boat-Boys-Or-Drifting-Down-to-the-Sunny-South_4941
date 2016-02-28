@@ -1,0 +1,28 @@
+_repo: The-House-Boat-Boys-Or-Drifting-Down-to-the-Sunny-South_4941
+alternative_title: The House Boat Boys; Or, A Voyage to the Gulf
+creator:
+  author:
+    agent_name: Rathborne, St. George
+    alias: Adams, Harrison
+    birthdate: 1854
+    deathdate: 1938
+    gutenberg_agent_id: '1599'
+    url: http://www.gutenberg.org/2009/agents/1599
+    wikipedia: http://en.wikipedia.org/wiki/St._George_Rathborne
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Mississippi River -- Juvenile fiction'
+- !lcsh 'Houseboats -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boats and boating -- Juvenile fiction'
+title: The House Boat Boys; Or, Drifting Down to the Sunny South
+url: http://www.gutenberg.org/ebooks/4941
