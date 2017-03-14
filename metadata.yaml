@@ -1,6 +1,9 @@
 _repo: The-House-Boat-Boys-Or-Drifting-Down-to-the-Sunny-South_4941
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The House Boat Boys; Or, A Voyage to the Gulf
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rathborne, St. George
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1599
     wikipedia: http://en.wikipedia.org/wiki/St._George_Rathborne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4941#The-House-Boat-Boys-Or-Drifting-Down-to-the-Sunny-South
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
